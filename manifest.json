@@ -1,0 +1,13 @@
+{
+  "manifest_version": 2,
+  "name": "PTBO Paywall Remover",
+  "version": "1.0",
+  "description": "Locally remove paywall from 'thepeterboroughexaminer'",
+ 
+  "content_scripts": [{
+    "js": ["main.js"],
+    "matches": ["https://www.thepeterboroughexaminer.com/*"],
+    "run_at": "document_end"
+  }]
+ 
+}
