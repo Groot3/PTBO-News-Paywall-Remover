@@ -11,3 +11,9 @@ Step 3: Visit any paywalled article on thepeterboroughexaminer.com
 
 The paywall should be removed now.
 If you're having any issues, questions or concerns, you can reach out to me via Discord at Groot#4556 and I will be happy to work through any issues.
+
+Before:
+https://i.imgur.com/UIafrjY.png
+
+After: 
+https://i.imgur.com/s1oyqfQ.png
